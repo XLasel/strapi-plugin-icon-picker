@@ -1,0 +1,25 @@
+{
+    "icon-picker.label": "Выбор иконки",
+    "icon-picker.description": "Выберите иконку из библиотеки Lucide",
+    "icon-picker.placeholder": "Выберите иконку",
+    "icon-picker.aria-label": "Выбор иконки",
+    "icon-picker.no-icon": "Нет иконки",
+    "icon-picker.error": "Пожалуйста, выберите иконку",
+    "icon-picker.hint": "Выберите иконку для этого поля",
+    "icon-picker.groups.base": "Основные иконки",
+    "icon-picker.groups.form": "Иконки форм",
+    "icon-picker.groups.file": "Иконки файлов",
+    "icon-picker.groups.media": "Медиа иконки",
+    "icon-picker.groups.chart": "Иконки графиков",
+    "icon-picker.groups.commerce": "Иконки торговли",
+    "icon-picker.groups.user": "Иконки пользователей",
+    "icon-picker.groups.time": "Иконки времени",
+    "icon-picker.groups.contact": "Иконки контактов",
+    "icon-picker.groups.structure": "Иконки объектов",
+    "icon-picker.groups.misc": "Разные иконки",
+    "icon-picker.groups.social": "Социальные иконки",
+    "icon-picker.customField.section.base": "Основные настройки",
+    "icon-picker.customField.required.label": "Обязательное поле",
+    "icon-picker.customField.required.description": "Сделать это поле обязательным"
+}
+  
