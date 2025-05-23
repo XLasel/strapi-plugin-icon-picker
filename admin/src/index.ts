@@ -1,9 +1,5 @@
 import React from 'react';
-import { getTranslation } from './utils/getTranslation';
 import { PLUGIN_ID } from './pluginId';
-import { Initializer } from './components/Initializer';
-import { PluginIcon } from './components/PluginIcon';
-import IconPicker from './components/IconPicker';
 
 const pluginId =  PLUGIN_ID ;
 

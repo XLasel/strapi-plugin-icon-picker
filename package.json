@@ -8,12 +8,12 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/strapi-plugin-icon-picker/strapi-plugin-icon-picker"
+    "url": "https://github.com/XLasel/strapi-plugin-icon-picker"
   },
   "bugs": {
-    "url": "https://github.com/strapi-plugin-icon-picker/strapi-plugin-icon-picker/issues"
+    "url": "https://github.com/XLasel/strapi-plugin-icon-picker/issues"
   },
-  "homepage": "https://github.com/strapi-plugin-icon-picker/strapi-plugin-icon-picker#readme",
+  "homepage": "https://github.com/XLasel/strapi-plugin-icon-picker#readme",
   "keywords": [
     "strapi",
     "plugin",

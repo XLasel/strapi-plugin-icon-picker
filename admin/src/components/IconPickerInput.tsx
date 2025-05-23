@@ -1,9 +1,8 @@
 import React from 'react';
-import { Field, SingleSelect, SingleSelectOption, Flex } from '@strapi/design-system';
-import * as LucideIcons from 'lucide-react';
-import { useIntl } from 'react-intl';
+import { Field, SingleSelect, SingleSelectOption, Flex, useComposedRefs } from '@strapi/design-system';
 import { useFocusInputField } from '@strapi/strapi/admin';
-import { useComposedRefs } from '@strapi/design-system';
+import { useIntl } from 'react-intl';
+import * as LucideIcons from 'lucide-react';
 import {
   allIcons,
 } from './iconOptions';
