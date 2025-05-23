@@ -1,5 +1,5 @@
 {
-  "name": "strapi-plugin-icon-picker",
+  "name": "strapi-plugin-lucide-iconfield",
   "version": "0.1.0",
   "description": "A custom field plugin for Strapi that allows users to pick icons from various icon libraries.",
   "author": "Ekaterina_Bulgakova <carefulka@gmail.com>",
